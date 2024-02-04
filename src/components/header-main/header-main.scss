@@ -1,0 +1,42 @@
+.header-main {
+  display: flex;
+  flex-direction: column;
+  gap: 50px 0;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  .header-main__block-title {
+    .header-main__titile {
+      margin: 0;
+      font: 400 48px/72px "Open Sans";
+      color: #CD6326;
+    }
+  }
+
+  .header-main__description-block {
+    max-width: 274px;
+
+    .header-main__description-text {
+      margin: 0;
+      font: 400 18px/27px "Open sans";
+      color: #fff;
+    }
+  }
+
+  .header-main__button-block {
+    .button {
+      height: 60px;
+      padding: 0 42px;
+      background: #CD6326;
+      border: none;
+    }
+    
+    .button:hover {
+      background: #E69028;
+    }
+    
+    .button:active {
+      background: #8F5613;
+    }
+  }
+}

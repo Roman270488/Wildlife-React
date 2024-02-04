@@ -1,0 +1,17 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0 15px;
+
+  .logo__image {
+    width: 70px;
+    height: 60px;
+    background: url(../../assets/logotype.png) no-repeat;
+  }
+
+  .logo__text {
+    font: 400 32px/60px Roboto;
+    color: #fff;
+    text-transform: uppercase;
+  }
+}
