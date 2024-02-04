@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wildlife-react/static/css/main.26c6541e.css",
+    "main.js": "/wildlife-react/static/js/main.e3a623c7.js",
+    "static/media/Rectangle.jpg": "/wildlife-react/static/media/Rectangle.12f63cb13f95199f8338.jpg",
+    "index.html": "/wildlife-react/index.html",
+    "static/media/search.svg": "/wildlife-react/static/media/search.b22514c48a42502403d4.svg",
+    "main.26c6541e.css.map": "/wildlife-react/static/css/main.26c6541e.css.map",
+    "main.e3a623c7.js.map": "/wildlife-react/static/js/main.e3a623c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c6541e.css",
+    "static/js/main.e3a623c7.js"
+  ]
+}
