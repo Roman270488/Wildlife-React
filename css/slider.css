@@ -1,6 +1,6 @@
 .slider__arrow-left-image, .slider__arrow-right-image {
   cursor: pointer;
-  transition: .3s;
+  transition: 0.3s;
 }
 
 .slider__arrow-left-image:hover, .slider__arrow-right-image:hover {

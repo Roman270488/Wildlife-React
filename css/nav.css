@@ -1,0 +1,16 @@
+.navigation {
+  display: flex;
+  gap: 0 61px;
+  list-style: none;
+}
+.navigation .navigation__list {
+  transition: 0.3s;
+}
+.navigation .navigation__list:hover {
+  transform: scale(1.1);
+}
+.navigation .navigation__link {
+  font: 400 23px/60px "Open sans";
+  color: #fff;
+  text-decoration: none;
+}

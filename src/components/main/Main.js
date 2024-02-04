@@ -1,3 +1,5 @@
+import Form from '../form/Form';
+import Slider from '../slider/slider';
 import './main.scss';
 
 const Main = () => {
@@ -8,6 +10,8 @@ const Main = () => {
           <h2 className="main__title">Latest articles</h2>
           <p className="main__sub-title">Breaking news from the wild</p>
         </div>
+        <Slider/>
+        <Form/>
       </div>
     </main>
   )
